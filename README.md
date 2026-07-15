@@ -39,8 +39,10 @@ Each project directory generally contains:
 * Finite State Machines (FSM)
 * Datapath and Control Unit Architecture
 * Structural and Behavioral Modeling in VHDL
+* Parametric Design (using VHDL Generics)
 * Component Instantiation & Port Mapping
 * Digital Arithmetic & Register Management
+* Sensor Logic & Event Filtering
 
 ---
 
