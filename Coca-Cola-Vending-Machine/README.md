@@ -71,4 +71,4 @@ The datapath performs all arithmetic and logical operations based on signals fro
 1. Open your VHDL simulator (e.g., Xilinx Vivado, ModelSim, or GHDL).
 2. Load the top-level structural file (`Top.vhd`), the control unit (`UC.vhd`), and all sub-component files (`decoder.vhd`, `sum.vhd`, etc.).
 3. Compile the design.
-4. Load the accompanying testbench (if provided) or manually force the clock, reset, and sensor signals to verify the state transitions and outputs.
+4. Load the accompanying testbench.
